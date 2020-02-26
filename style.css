@@ -1,0 +1,42 @@
+* {
+    font-family: Quicksand;
+}
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+  }
+  
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+footer{
+    text-align: center;
+    bottom: 10px;
+    left: 0px;
+    width: 100%;
+    font-size: 17.5px;
+    background-color: goldenrod;
+}
+
+h1{
+    text-align: center;
+}
+
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    height: 750px;
+}
+
+.nacimiento {
+    margin-left: 10%;
+}
+
+.videos {
+    width: 80%;
+    margin: 0 auto;
+}
